@@ -70,7 +70,7 @@ class InscriptionPage extends StatelessWidget {
               )
           ),
 
-        ),
+        ),//NEW MODIFIED LIGNE 
         Container(
           padding: EdgeInsets.fromLTRB(20,10,20,20),
           child: TextFormField(
@@ -147,6 +147,6 @@ class InscriptionPage extends StatelessWidget {
     ScaffoldMessenger.of(context).showSnackBar(snackBar);
   }
 
-}
+}//end of the file
 
 
