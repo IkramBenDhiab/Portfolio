@@ -2,7 +2,8 @@
 
 
 A  Flutter project.
-
+ 
+Readme.md file was just edited manually locally.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
