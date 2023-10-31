@@ -1,9 +1,6 @@
 # portfolio
 
-
-A  Flutter project.
- 
-Readme.md file was just edited manually locally.
+this line was modified manually during conflicts resolution
 ## Getting Started
 
 This project is a starting point for a Flutter application.
