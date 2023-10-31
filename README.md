@@ -1,7 +1,7 @@
 # portfolio
 
 A new Flutter project.
-
+Readme.md file was just edited manually at github .
 ## Getting Started
 
 This project is a starting point for a Flutter application.
